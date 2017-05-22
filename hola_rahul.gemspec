@@ -1,6 +1,6 @@
 $:.push File.expand_path("../lib", __FILE__)
 
-# Maintain your gem's version:
+# Maintain your gem's version :
 require "hola_rahul/version"
 
 # Describe your gem and declare its dependencies:
